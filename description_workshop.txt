@@ -4,7 +4,7 @@
 [b]Maintainer[/b] : zriverazrty
 [b]Fixed by[/b] : LuiAFK Reborn Team
 
-[br]
+[hr]
 
 [h3]Are you a poor soul that insists on playing Thorium and Calamity at the same time? Then this mod should at least make the experience a bit more barable.
 Thorium + Calamity Convergence Mod converges the progression and reduces the redundancy that happens when both mods kinda do the exact same thing.
