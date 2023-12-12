@@ -1,0 +1,10 @@
+displayName = Thorium + Calamity Convergence Mod
+author = zriverazrty, TheBrutalSkull ^-^
+version = 1.0
+modReferences = CalamityMod, ThoriumMod
+includePDB = true
+hideCode = false
+hideResources = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, Old\*
+includeSource = true
+sortAfter = CalamityMod, ThoriumMod

@@ -1,0 +1,23 @@
+[h1] Thorium + Calamity Convergence Mod REDUX [/h1]
+
+[b]OG Author[/b] : kittenchilly
+[b]Maintainer[/b] : zriverazrty
+[b]Fixed by[/b] : LuiAFK Reborn Team
+
+[br]
+
+[h3]Are you a poor soul that insists on playing Thorium and Calamity at the same time? Then this mod should at least make the experience a bit more barable.
+Thorium + Calamity Convergence Mod converges the progression and reduces the redundancy that happens when both mods kinda do the exact same thing.
+There's new recipe trees, maybe sometimes new recipes entirely for items, and FINALLY no identical vertebrae > leather recipe gosh dang it.
+Since this can go against what much of both the wikis say, I recommend using the Guide for the new recipes or Recipe Browser if you're into that.[/h3]
+
+
+[h2]Changelog:[/h2]
+
+v1.0
+- Added Blood Orb recipes for all the Thorium potions.
+- Fixed the majority of the issues with the mod. Now, should be completely functionnal
+
+v0.1
+- Initial release
+- Interlaced boot accesory progression. Normal Progression > Angel Treads (moved to post-plantera) > Terrarium Particle Sprinters > Seraph Tracers > Normal Progression
